@@ -1,7 +1,7 @@
 #include "CUnit/CUnit.h"
 #include "CUnit/Basic.h"
 
-#include "main.h"
+#include "controlleur.h"
 
 #include <stdio.h>
 
